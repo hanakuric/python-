@@ -1,5 +1,5 @@
 address = ["Flat Floor Street", "18", "New York"]
-pins = {"Jake":1234, "Emily":1111, "Jane":2222}
+pins = {"Jake":1234, "Emily":1111, "James":2222}
 
 print(address[0], address[1])
 
